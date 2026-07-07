@@ -1,7 +1,7 @@
 # Welcome to Dekszx's profile! 🔥
 
 <p align="center">
-  <img src="img\banner.gif">
+  <img src="img\banner.gif" alt="Banner GIF" style="position:relative; z-index:1;">
 </p>
 
 <table width="100%">
@@ -28,7 +28,7 @@
 
 <details open>
 
-  <summary>Lenguajes de Programacion / Program Languages</summary>
+  <summary><b>Lenguajes de Programacion / Program Languages</b></summary>
   <p align="center">
     <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -53,7 +53,7 @@
 
 <details open>
 
-  <summary>Frameworks</summary>
+  <summary><b>Frameworks</b></summary>
   <p align="center">
     <a href="https://unity.com/" target="_blank">
       <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
