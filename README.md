@@ -1,4 +1,8 @@
-# My Profile 🔥
+# Welcome to Dekszx's profile! 🔥
+
+<p align="center">
+  <img src="img\banner.gif">
+</p>
 
 <table width="100%">
   <tr>
