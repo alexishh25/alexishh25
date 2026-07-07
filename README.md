@@ -1,7 +1,7 @@
 # Welcome to Dekszx's profile! 🔥
 
 <p align="center">
-  <img src="img\banner.gif" alt="Banner GIF" style="position:relative; z-index:1;">
+  <img src="img\banner.gif" alt="Banner GIF" style="position:relative; z-index:2;" width="content-fit">
 </p>
 
 <table width="100%">
