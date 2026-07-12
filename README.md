@@ -83,5 +83,16 @@
 </details>
 
 <details open>
-  <summary>📂 <b>Portfolio</b></summary>
+  <summary>💻 <b>Environments</b></summary>
+  <p align="center">
+    <a href="https://www.microsoft.com/windows" target="_blank">
+      <img src="https://img.shields.io/badge/Windows%2011-%230078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11">
+    </a>
+    <a href="https://ubuntu.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+    </a>
+    <a href="https://fedoraproject.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
+    </a>
+  </p>
 </details>
