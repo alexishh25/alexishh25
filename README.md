@@ -96,3 +96,15 @@
     </a>
   </p>
 </details>
+
+<details open>
+  <summary>🛠️ <b>Tools</b></summary>
+  <p align="center">
+    <a href="https://desktop.github.com/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub%20Desktop-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
+    </a>
+    <a href="https://github.com/google-deepmind" target="_blank">
+      <img src="https://img.shields.io/badge/Antigravity-%234285F4?style=for-the-badge&logo=googledeepmind&logoColor=white" alt="Antigravity">
+    </a>
+  </p>
+</details>
