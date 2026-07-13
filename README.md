@@ -106,5 +106,8 @@
     <a href="https://github.com/google-deepmind" target="_blank">
       <img src="https://img.shields.io/badge/Antigravity-%234285F4?style=for-the-badge&logo=googledeepmind&logoColor=white" alt="Antigravity">
     </a>
+    <a href="https://docs.anthropic.com/en/docs/about-claude/claude-code/overview" target="_blank">
+      <img src="https://img.shields.io/badge/Claude%20Code-%23cc9b7a?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+    </a>
   </p>
 </details>
